@@ -1,0 +1,13 @@
+yfinance==0.2.57
+numpy
+pandas
+matplotlib
+seaborn
+pyportfolioopt
+yahoo_fin
+cvxpy
+joblib
+xgboost
+scikit-learn
+torch==2.2.2
+transformers==4.37.2
